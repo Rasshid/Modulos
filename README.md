@@ -1,0 +1,1 @@
+Estas son todas las versiones de mi propio módulo creado para Machine Learning, usando implementaciones propias para muchos de los modelos. En algunos nb se llegan a usar así que aquí se pueden bajar  todas las versiones. 
